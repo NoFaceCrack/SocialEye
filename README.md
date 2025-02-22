@@ -23,8 +23,12 @@
 ### 🔧 Install with Python:
 
 # Clone the repository
+```bash
 git clone https://github.com/yourusername/SocialEye.git
+```
+```bash
 cd SocialEye
+```
 
 # Install dependencies
 ```bash
