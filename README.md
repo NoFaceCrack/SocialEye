@@ -1,7 +1,7 @@
 # SocialEye
 # 🚀 SocialEye - The Ultimate OSINT & Cyber Investigation Toolkit
 
-![SocialEye Banner](https://github.com/errorsploit/SocialEye/blob/main/photo_6186132875393482923_x.jpg)
+![SocialEye Banner](https://raw.githubusercontent.com/errorsploit/SocialEye/refs/heads/main/WhatsApp%20Image%202025-02-22%20at%2011.45.50%20PM.jpeg)
 
 ## 🌟 Overview
 *SocialEye* is a next-generation *Open Source Intelligence (OSINT) and Cyber Investigation Toolkit* designed for ethical hackers, cybersecurity researchers, and intelligence analysts. This tool empowers users to extract *Instagram account information, download Reels, analyze posts, and search usernames on the Dark Web* effortlessly. 
