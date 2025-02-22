@@ -27,8 +27,8 @@ git clone https://github.com/yourusername/SocialEye.git
 cd SocialEye
 
 # Install dependencies
-python3 setup.py
-pip install -r requirements.txt
+
+python3 setup.pp<br>pip install -r requirements.txt
 
 
 ### 🚀 Running SocialEye
