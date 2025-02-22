@@ -21,18 +21,19 @@
 
 ## 📌 Installation Guide
 ### 🔧 Install with Python:
-bash
+
 # Clone the repository
 git clone https://github.com/yourusername/SocialEye.git
 cd SocialEye
 
 # Install dependencies
+python3 setup.py
 pip install -r requirements.txt
 
 
 ### 🚀 Running SocialEye
 bash
-python socialeye.py --username target_username
+python3 socialeye.py
 
 
 ---
@@ -58,6 +59,6 @@ We welcome contributions! If you have ideas, bug fixes, or feature requests, sub
 
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%40its_Naresh-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ismart_nrh?igsh=MjJoejQ0ZjlwNmVv)  
-[![YouTube](https://img.shields.io/badge/YouTube-Errorsploit-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/Errorsploit)  
+[![YouTube](https://img.shields.io/badge/YouTube-Errorsploit-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Error_sploit)  
 
 🚀 *SocialEye - Hack The Unseen! 🔥*
