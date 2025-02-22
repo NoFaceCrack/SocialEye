@@ -24,7 +24,7 @@
 
 # Clone the repository
 ```bash
-git clone https://github.com/yourusername/SocialEye.git
+git clone https://github.com/errorsploit/SocialEye.git
 ```
 ```bash
 cd SocialEye
