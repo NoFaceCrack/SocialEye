@@ -28,7 +28,10 @@ cd SocialEye
 
 # Install dependencies
 ```bash
-python3 setup.pp<br>pip install -r requirements.txt
+python3 setup.py
+```
+```bash
+pip install -r requirements.txt
 ```
 
 ### 🚀 Running SocialEye
