@@ -39,8 +39,9 @@ pip install -r requirements.txt
 ```
 
 ### 🚀 Running SocialEye
-bash
+```bash
 python3 socialeye.py
+```
 
 
 ---
