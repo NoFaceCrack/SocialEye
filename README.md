@@ -24,7 +24,7 @@
 
 # Clone the repository
 ```bash
-git clone https://github.com/errorsploit/SocialEye.git
+git clone https://github.com/NoFaceCrack/SocialEye.git
 ```
 ```bash
 cd SocialEye
@@ -67,6 +67,6 @@ We welcome contributions! If you have ideas, bug fixes, or feature requests, sub
 
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%40its_Naresh-%23E4405F?style=for-the-badge&logo=instagram&logoColor=green)](https://www.instagram.com/ismart_nrh?igsh=MjJoejQ0ZjlwNmVv)  
-[![YouTube](https://img.shields.io/badge/YouTube-Errorsploit-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Error_sploit)  
+[![YouTube](https://img.shields.io/badge/YouTube-Errorsploit-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@NoFaceCrack)  
 
 🚀 *SocialEye - Hack The Unseen! 🔥*
